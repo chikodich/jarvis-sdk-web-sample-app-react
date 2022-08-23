@@ -9,7 +9,7 @@
     ]
   },
   "dependencies": {
-    "@indykiteone/jarvis-sdk-web": "^0.2.1"
+    "@indykiteone/jarvis-sdk-web": "^0.2.3-alpha-f2f45b9"
   },
   "scripts": {
     "web": "yarn workspace @sample-app/web",

@@ -1273,10 +1273,10 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
-"@indykiteone/jarvis-sdk-web@^0.2.1":
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/@indykiteone/jarvis-sdk-web/-/jarvis-sdk-web-0.2.1.tgz#dc8f86a72d18ec8e31c20c9867f3699e609ed010"
-  integrity sha512-sZ165ktaXbDTIsfTltvPhKub+o7AYTKgXR8bd/MDPFI0VldL9rNWNJWvbTlFnx9Qc4Hxpz5Ydn7i1F7QxEHXSw==
+"@indykiteone/jarvis-sdk-web@^0.2.3-alpha-f2f45b9":
+  version "0.2.3-alpha-f2f45b9"
+  resolved "https://registry.yarnpkg.com/@indykiteone/jarvis-sdk-web/-/jarvis-sdk-web-0.2.3-alpha-f2f45b9.tgz#e214c0c7ff8389a04443637a4ce60e5d752d20f8"
+  integrity sha512-1otgfr/Ln2MBSCMvpi9QCtqDtKd3D2hGFxZ6j/Sz5H0c2buvYcOvX7A5aObcEXDDfgSPm6qsf/+vpEmavDWalg==
   dependencies:
     axios "^0.26.0"
     core-js "^3.21.1"
