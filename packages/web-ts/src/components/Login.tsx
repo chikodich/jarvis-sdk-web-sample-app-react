@@ -31,6 +31,7 @@ const Login: React.FC<IProps> = ({ setToken }) => {
         // forgotPasswordButton: "custom Forgot Password",
         // orOtherOptions: "Custom you can also continue with",
       },
+      loginApp: JSON.parse(process.env.REACT_APP_LOGIN_APPS || "{}"),
     });
   });
 
